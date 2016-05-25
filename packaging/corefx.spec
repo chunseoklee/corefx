@@ -27,6 +27,8 @@ BuildRequires:	libicu-devel
 BuildRequires:	lttng-ust-devel
 BuildRequires:	libopenssl-devel
 BuildRequires:	libuuid-devel
+BuildRequires:	krb5-devel
+BuildRequires:	krb5-devel
 
 # This may become problematic
 BuildRequires:	libcurl-devel 
