@@ -59,6 +59,10 @@
       <OSGroup>alpine.3.4.3</OSGroup>
       <Platform>amd64</Platform>
     </Project>
+    <Project Include="tizne\4\runtime.native.System.IO.Compression.pkgproj">
+      <OSGroup>tien.4</OSGroup>
+      <Platform>arm</Platform>
+    </Project>
     <Project Include="win\runtime.native.System.IO.Compression.pkgproj">
       <OSGroup>Windows_NT</OSGroup>
       <Platform>x86</Platform>

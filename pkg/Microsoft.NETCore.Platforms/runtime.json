@@ -503,6 +503,20 @@
             "#import": [ "alpine.3.4.3", "alpine.3-x64" ]
         },
 
+        "tizen": {
+            "#import": [ "linux" ]
+        },
+        "tizen-arm": {
+            "#import": [ "tizen", "linux-arm" ]
+        },
+
+        "tizen.4": {
+            "#import": [ "tizen" ]
+        },
+        "tizen.4-arm": {
+            "#import": [ "tizen.4", "tizen-arm" ]
+        },
+
         "corert": {
             "#import": [ "any" ]
         },
